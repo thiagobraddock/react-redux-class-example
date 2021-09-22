@@ -8,4 +8,4 @@ In the project directory, you can run:
 
 <br />
 
-![Alt text](todo-print.png?raw=true 'Print')
+![Screenshot](todo-print.png)
